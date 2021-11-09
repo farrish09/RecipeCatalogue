@@ -15,7 +15,7 @@
             android:id="@+id/img_food"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:contentDescription="Image Item Food"
+            android:contentDescription="@string/content_image_item_food"
             android:scaleType="centerCrop"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -53,7 +53,7 @@
             android:paddingStart="16dp"
             android:paddingEnd="16dp"
             android:textAlignment="textEnd"
-            app:layout_constraintTop_toBottomOf="@id/tv_food_category" />
+            app:layout_constraintTop_toBottomOf="@id/tv_price_food" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </com.google.android.material.card.MaterialCardView>
