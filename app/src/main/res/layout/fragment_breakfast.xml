@@ -89,10 +89,8 @@
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/rv_breakfast"
             android:layout_width="match_parent"
-
             android:layout_height="0dp"
             android:layout_marginTop="32dp"
-            tools:listitem="@layout/item_recipe"
             app:layout_constraintTop_toBottomOf="@id/cv_banner" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
