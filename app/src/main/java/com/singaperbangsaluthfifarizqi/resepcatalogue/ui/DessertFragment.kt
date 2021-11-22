@@ -24,8 +24,8 @@ private var _binding: FragmentDessertBinding? = null
   ): View? {
 
 
-    _binding =FragmentDessertBinding.inflate(inflater, container, false)
-    return  binding.root
+      _binding = FragmentDessertBinding.inflate(inflater, container, false)
+      return binding.root
   }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {

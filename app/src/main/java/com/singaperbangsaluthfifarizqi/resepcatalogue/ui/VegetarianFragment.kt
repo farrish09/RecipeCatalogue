@@ -30,7 +30,7 @@ private var _binding: FragmentVegetarianBinding? = null
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         binding.rvVegetarian.apply {
-            layoutManager = GridLayoutManager(activity,2)
+            layoutManager = GridLayoutManager(activity, 2)
             adapter = RecipesAdapter(DataRecipes.listVegetarian)
         }
     }

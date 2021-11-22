@@ -22,8 +22,8 @@ class BreakfastFragment : Fragment() {
     container: ViewGroup?,
     savedInstanceState: Bundle?
   ): View? {
-    binding = FragmentBreakfastBinding.inflate(inflater, container, false)
-    return binding!!.root
+      binding = FragmentBreakfastBinding.inflate(inflater, container, false)
+      return binding!!.root
 
   }
 

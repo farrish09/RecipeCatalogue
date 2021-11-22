@@ -424,15 +424,15 @@ object DataRecipes {
             for (data in numberVegetarian.indices) { // indices rentang jarak array dalam index number
                 val recipe = Recipes(
                     name = nameVegetarian[data],
-                    category = categoryVegetarian[data] ,
+                    category = categoryVegetarian[data],
                     description = descriptionVegetarian[data],
-                    ingredients = ingredientsVegetarian[data] ,
-                    instructions = instructionsVegetarian[data] ,
-                    photo = photoVegetarian[data] ,
-                    price = numberVegetarian[data] ,
+                    ingredients = ingredientsVegetarian[data],
+                    instructions = instructionsVegetarian[data],
+                    photo = photoVegetarian[data],
+                    price = numberVegetarian[data],
                     calories = caloriesVegetarian[data],
-                    carbo =  carboVegetarian[data] ,
-                    protein =  proteinVegetarian[data]
+                    carbo = carboVegetarian[data],
+                    protein = proteinVegetarian[data]
                 )
 
                 list.add(recipe)
