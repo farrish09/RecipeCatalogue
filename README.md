@@ -34,9 +34,7 @@
 ##   Rabu,18 November 2021 saya telah belajar:
 
 * Saya telah belajar Dessert Main.
-![Uploading Screenshot_1637562134.png…]()
-
-
+![Screenshot_1637562134](https://user-images.githubusercontent.com/68719137/142811563-6233b3b3-f22c-47bf-b529-9e7314be2a0f.png)
 
 * Saya telah belajar Detail Main.
 ![Screenshot_1637562163](https://user-images.githubusercontent.com/68719137/142810604-6b1f40d2-4f82-4652-bad3-f7a3b041e3d2.png)
@@ -46,19 +44,16 @@
 
 
 
-##   Kamis,19 November 2021 saya telah belajar:
+##    Senin,22 November 2021 saya telah belajar:
 
-* Saya telah belajar Dessert Main.
+* Saya telah belajar Seafood Main.
+![Screenshot_1637562739](https://user-images.githubusercontent.com/68719137/142812422-3291e2c3-78ff-46d7-b450-0e8bd5138841.png)
 
-* Saya telah belajar Detail Main.
+* Saya telah belajar  Seafood Detail Main.
+![Screenshot_1637562762](https://user-images.githubusercontent.com/68719137/142812600-b47a7a5b-057a-459d-a975-252b7d3d88fc.png)
 
-* Saya telah belajar Dessert Detail Recipe.
+* Saya telah belajar Seafood Detail Recipe.
+![Screenshot_1637562779](https://user-images.githubusercontent.com/68719137/142812719-b816fb57-25ae-410d-a72c-77740b119626.png)
 
 
-##   Senin,22 November 2021 saya telah belajar:
 
-* Saya telah belajar Dessert Main.
-
-* Saya telah belajar Detail Main.
-
-* Saya telah belajar Dessert Detail Recipe.
