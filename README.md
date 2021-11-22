@@ -30,4 +30,12 @@
 ![Screenshot_1637560378](https://user-images.githubusercontent.com/68719137/142808307-ab7226ec-3597-41a0-9405-c1f8ea298303.png)
 
 * Saya telah belajar  Activity Main.
-![Uploading Screenshot_1637560390.png…]()
+![Screenshot_1637560385](https://user-images.githubusercontent.com/68719137/142808495-b84cb31a-d061-4862-baad-830c2a8dc4f1.png)
+
+
+* Saya telah belajar  Activity Seafood.
+![Screenshot_1637560985](https://user-images.githubusercontent.com/68719137/142808773-68e49c36-d9e6-4b71-94f0-3091db6d55d7.png)
+
+* Saya telah belajar   Seafood Detail.
+![Screenshot_1637561027](https://user-images.githubusercontent.com/68719137/142808807-490eba25-3ea2-4273-9ebc-fed2ce19e0d0.png)
+
