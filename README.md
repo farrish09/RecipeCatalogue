@@ -36,8 +36,7 @@
 * Saya telah belajar Dessert Main.
 ![Uploading Screenshot_1637562134.png…]()
 
-* Saya telah belajar Dessert Main.
-![Screenshot_1637562163](https://user-images.githubusercontent.com/68719137/142810474-140e5256-fbb5-4c0b-9424-86ba0be0fa92.png)
+
 
 * Saya telah belajar Detail Main.
 ![Screenshot_1637562163](https://user-images.githubusercontent.com/68719137/142810604-6b1f40d2-4f82-4652-bad3-f7a3b041e3d2.png)
