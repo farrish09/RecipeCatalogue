@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Resep Catalogue</string>
+    <string name="txt_breakfast">sarapan</string>
+    <string name="txt_dessert">Dessert</string>
+    <string name="txt_seafood">Seafood</string>
+    <string name="txt_vegetarian">Vegetarian</string>
+    <string name="content_image_banner_food">Image Banner Food</string>
+    <string name="content_garlic_butter_shrimp">Garlic Butter Shrimp</string>
+    <string name="txt_garlic_butter_shrimp">Garlic Butter shrimp</string>
+    <string name="txt_1_2_k">1.2 K</string>
+    <string name="content_image_item_food">Image Item Food</string>
+    <string name="txt_image_for_row_item_food">Image For Row Item Food</string>
+    <string name="txt_cooked">Cooked</string>
+
+</resources>

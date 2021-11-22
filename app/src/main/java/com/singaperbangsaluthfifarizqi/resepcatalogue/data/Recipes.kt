@@ -1,5 +1,9 @@
 package com.singaperbangsaluthfifarizqi.resepcatalogue.data
 
+import android.os.Parcelable
+import kotlinx.parcelize.Parcelize
+
+@Parcelize
 data class Recipes(
     var name: String,
     var category: String,
@@ -11,4 +15,4 @@ data class Recipes(
     var calories: String,
     var carbo: String,
     var protein: String
-)
+) : Parcelable
